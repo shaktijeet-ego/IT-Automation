@@ -1,0 +1,21 @@
+a{
+font-size: 100px;
+font-family: Arial;
+color: Green;
+
+}
+
+
+table,td,th{
+border: 1px solid black;
+ border-collapse: collapse;
+}
+
+
+sami_tag, a{
+property: 1px;
+}
+
+imas_tag, a{
+property: 2px;
+}

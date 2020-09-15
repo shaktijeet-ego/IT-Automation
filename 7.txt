@@ -1,0 +1,31 @@
+Step 1: Download the file provided
+Step 2: Extract the file (Use Winrar or any other extract)
+Step 3: Open the folder extracted
+Step 4: Open l1rastemp
+Step 5: Copy the name exactly as mentioned in the shown file
+Step 6: Remove the client-01 with your name which was copied and save it
+Step 7: Copy all the files
+Step 8: Go to: C:\Program Files\OpenVPN\config 
+
+or
+
+C:\Program Files(x86)\OpenVPN\config
+
+(based on your system)
+
+Step 9: Paste the files there
+
+Step 10: Connect to OpenVPN
+
+It will work now
+
+
+100.64.127.48 	ACCESS-REJECT	Account not active [#]
+sumans16
+session not taking
+plz verify 
+
+
+ACCESS-REJECT//100.68.23.101
+hardeshayo na sir//hkarki
+
