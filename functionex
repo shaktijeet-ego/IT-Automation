@@ -1,0 +1,45 @@
+#def function(parameter):
+    #block of code
+
+#example
+
+def greeting(name, department):
+    print("Hello " + name)
+    print("You are in : " + department)
+
+greeting("Shakti","TSC")
+#greeting(argument)
+
+def area(base,height):
+    return base*height
+
+area_a = area(1,2)
+area_b = area(2,3)
+sum = area_a+area_b
+print(sum)
+
+
+#used to combine calls in functions
+
+
+def convert(seconds):
+    hours = seconds//3600
+    minutes = (seconds-hours*3600)//60
+    remaining_second = seconds - hours*3600 - minutes *60
+    return hours,minutes,remaining_second
+
+
+hours,minutes,seconds = convert(5000)
+print(hours,minutes,seconds)
+
+def days(month,numberdays):
+    print(month + "has" + str(numberdays)+"days")
+
+days("June",30)
+days("July",31)
+
+
+def sum(x, y):
+		return(x+y)
+print(sum(sum(1,2), sum(3,4)))
+
